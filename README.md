@@ -1,6 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently pursuing the master’s degree with the School of Computer Science and Information Security, Guilin University of Electronic Technology, Guilin, China.
-- 
+- 😄 I’m currently pursuing the master’s degree with the School of Computer Science and Information Security, Guilin University of Electronic Technology, Guilin, China.
+- 🔭 My research interests include object detection, object detection in adverse weather, and deep learning.
+- ![R](https://github.com/user-attachments/assets/e7723553-2171-49d2-8170-ba4e0f1f3618)
+
 <!--
 **PolarisFTL/PolarisFTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
