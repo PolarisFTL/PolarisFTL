@@ -1,7 +1,13 @@
 ## Hi there 👋
 - 😄 I’m currently pursuing the master’s degree with the School of Computer Science and Information Security, Guilin University of Electronic Technology, Guilin, China.
 - 🔭 My research interests include object detection, object detection in adverse weather, and deep learning.
-- ![R](https://github.com/user-attachments/assets/e7723553-2171-49d2-8170-ba4e0f1f3618)
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 
 <!--
 **PolarisFTL/PolarisFTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
