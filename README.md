@@ -4,8 +4,8 @@
 - 📫 polarisftl123@gmail.com
 - ![](https://komarev.com/ghpvc/?username=your-github-PolarisFTL&color=ff69b4)
 - <a href="https://orcid.org/0009-0007-2461-6685" target="_blank">
-  <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="15" style="vertical-align: middle;"> 0009-0007-2461-6685 
-</a>
+  <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="15" style="vertical-align: middle;"> 
+</a>0009-0007-2461-6685 
 
 
 <!--
