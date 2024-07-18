@@ -3,7 +3,10 @@
 - 🔭 My research interests include object detection, object detection in adverse weather, and deep learning.
 - 📫 polarisftl123@gmail.com
 - ![](https://komarev.com/ghpvc/?username=your-github-PolarisFTL&color=ff69b4)
-- <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="18">0009-0007-2461-6685
+- <span style="display: inline-flex; align-items: center;">
+  <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="18" style="vertical-align: middle;">
+  0009-0007-2461-6685
+  </span>
 
 <!--
 **PolarisFTL/PolarisFTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
