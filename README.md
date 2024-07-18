@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 😄 I’m currently pursuing the master’s degree with the School of Computer Science and Information Security, Guilin University of Electronic Technology, Guilin, China.
 - 🔭 My research interests include object detection, object detection in adverse weather, and deep learning.
-- [![Space Status](https://img.shields.io/endpoint?url=https://huggingface.co/api/spaces/your-username/your-space-name/badge)]([https://huggingface.co/spaces/your-username/your-space-name](https://huggingface.co/spaces/PolarisFTL/MASFNet))
+- 
 
 
 <!--
