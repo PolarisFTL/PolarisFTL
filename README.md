@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently pursuing the master’s degree with the School of Computer Science and Information Security, Guilin University of Electronic Technology, Guilin, China.
+- 
 <!--
 **PolarisFTL/PolarisFTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
