@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 😄 I’m currently pursuing the master’s degree with the School of Computer Science and Information Security, Guilin University of Electronic Technology, Guilin, China.
 - 🔭 My research interests include object detection, object detection in adverse weather, and deep learning.
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:polarisftl123@gmail.com)
+- 📫 polarisftl123@gmail.com
 
 
 <!--
