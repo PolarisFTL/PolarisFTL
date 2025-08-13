@@ -6,6 +6,12 @@
 - 🎈 My blog: https://blog.csdn.net/qq_23089691
 - ![](https://komarev.com/ghpvc/?username=your-github-PolarisFTL&color=ff69b4)
 
+- ## Academic Services
+- Conference Reviewer
+  - AAAI 2026
+  - ICME 2025
+  - ICIC 2025 
+
 <!--
 **PolarisFTL/PolarisFTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
