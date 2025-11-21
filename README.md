@@ -8,6 +8,8 @@
 
 - ## Academic Services
 - Conference Reviewer
+  - CVPR 2026
+  - ICME 2026
   - AAAI 2026
   - ICME 2025
   - ICIC 2025 
