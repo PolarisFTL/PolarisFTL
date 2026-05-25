@@ -26,10 +26,10 @@
     </td>
     <td width="60%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolarisFTL&theme=github" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolarisFTL&theme=github">
 
-<img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PolarisFTL&theme=github" width="48%">
-<img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PolarisFTL&theme=github&utcOffset=8" width="48%">
+<img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PolarisFTL&theme=github">
+<img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PolarisFTL&theme=github&utcOffset=8">
 
     </td>
   </tr>
