@@ -16,7 +16,8 @@
   - ICME 2025
   - ICIC 2025
 - Journal Reviewer
-  - TCSVT
+  - IEEE TCSVT
+  - IEEE TCE
 
 <!--
 **PolarisFTL/PolarisFTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
