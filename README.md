@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 - 😄 I'm currently pursuing the master's degree with the School of Computer Science and Information Security, Guilin University of Electronic Technology, Guilin, China.
 - 🔭 My research interests include object detection, object detection in adverse weather, and deep learning.
 - 😶‍🌫️ My Homepage: [Los Pollos Hermanos](https://polarisftl.github.io/)
@@ -11,27 +12,34 @@
   <tr>
     <td width="40%">
 
+
 **Academic Services**
+
 - Conference Reviewer
+
   - ACM MM 2026
   - CVPR 2026
   - ICME 2026
   - AAAI 2026
   - ICME 2025
   - ICIC 2025
+
 - Journal Reviewer
+
   - IEEE TCSVT
+
   - IEEE TCE
 
     </td>
     <td width="60%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolarisFTL&theme=github">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolarisFTL&theme=github" width="100%">
 
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=PolarisFTL&show_icons=true&theme=default&hide_border=true&include_all_commits=true&bg_color=00000000" width="49%">
-<img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PolarisFTL&theme=github&utcOffset=8" width="49%">
+<img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PolarisFTL&theme=github" width="48%">
+<img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PolarisFTL&theme=github&utcOffset=8" width="48%">
 
     </td>
+
   </tr>
 </table>
 
@@ -44,6 +52,7 @@
 
 Here are some ideas to get you started:
 assets/vectors/orcid.logo.icon.svg
+
 - 🔭 I'm currently pursuing the master's degree with the School of Computer Science and Information Security, Guilin University of Electronic Technology, Guilin, China.
 - 🌱 I'm currently learning ...
 - 👯 I'm looking to collaborate on ...
@@ -52,6 +61,7 @@ assets/vectors/orcid.logo.icon.svg
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -59,4 +69,5 @@ assets/vectors/orcid.logo.icon.svg
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
+
 -->
