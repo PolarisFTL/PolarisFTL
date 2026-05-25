@@ -11,7 +11,7 @@
   <tr>
     <td>
 
-### Academic Services
+**Academic Services**
 - Conference Reviewer
   - ACM MM 2026
   - CVPR 2026
@@ -26,19 +26,9 @@
     </td>
     <td>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolarisFTL&theme=github" width="400">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolarisFTL&theme=github" width="300">
 
-    </td>
-  </tr>
-  <tr>
-    <td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PolarisFTL&theme=github" width="400">
-
-    </td>
-    <td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PolarisFTL&theme=github" width="400">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PolarisFTL&theme=github" width="300">
 
     </td>
   </tr>
