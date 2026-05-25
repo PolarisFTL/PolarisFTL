@@ -28,20 +28,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolarisFTL&theme=github" width="100%">
 
-<table>
-  <tr>
-    <td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PolarisFTL&theme=github" width="100%">
-
-    </td>
-    <td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PolarisFTL&theme=github&utcOffset=8" width="100%">
-
-    </td>
-  </tr>
-</table>
+<img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PolarisFTL&theme=github" width="48%">
+<img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PolarisFTL&theme=github&utcOffset=8" width="48%">
 
     </td>
   </tr>
