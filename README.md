@@ -19,7 +19,7 @@
   - IEEE TCSVT
   - IEEE TCE
 
-## Contribution
+- ## Contribution
 
 ![Snake](https://PolarisFTL.github.io/PolarisFTL/snake.svg)
 
