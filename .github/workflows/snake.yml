@@ -2,21 +2,22 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # 每12小时运行一次
-  workflow_dispatch:  # 允许手动触发
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3.5.0
         with:
           github_user_name: PolarisFTL
           outputs: dist/snake.svg
-          svg_out_dark: dist/snake-dark.svg
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist

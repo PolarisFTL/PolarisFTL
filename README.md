@@ -25,11 +25,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://PolarisFTL.github.io/PolarisFTL/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://PolarisFTL.github.io/PolarisFTL/snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://PolarisFTL.github.io/PolarisFTL/snake.svg">
-</picture>
+![Snake](https://PolarisFTL.github.io/PolarisFTL/snake.svg)
 
 <!--
 **PolarisFTL/PolarisFTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
