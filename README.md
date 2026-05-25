@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 😄 I’m currently pursuing the master’s degree with the School of Computer Science and Information Security, Guilin University of Electronic Technology, Guilin, China.
+- 😄 I'm currently pursuing the master's degree with the School of Computer Science and Information Security, Guilin University of Electronic Technology, Guilin, China.
 - 🔭 My research interests include object detection, object detection in adverse weather, and deep learning.
 - 😶‍🌫️ My Homepage: [Los Pollos Hermanos](https://polarisftl.github.io/)
 - 📫 polarisftl123@gmail.com &ensp; <a href="https://orcid.org/0009-0007-2461-6685" target="_blank"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="15" style="vertical-align: middle;"> 0009-0007-2461-6685 </a>
@@ -7,7 +7,11 @@
 - 🎈 My blog: https://blog.csdn.net/qq_23089691
 - ![](https://komarev.com/ghpvc/?username=your-github-PolarisFTL&color=ff69b4)
 
-- ## Academic Services
+<table>
+  <tr>
+    <td>
+
+### Academic Services
 - Conference Reviewer
   - ACM MM 2026
   - CVPR 2026
@@ -19,7 +23,28 @@
   - IEEE TCSVT
   - IEEE TCE
 
-- ## Contribution
+    </td>
+    <td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolarisFTL&theme=github" width="400">
+
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PolarisFTL&theme=github" width="400">
+
+    </td>
+    <td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PolarisFTL&theme=github" width="400">
+
+    </td>
+  </tr>
+</table>
+
+## Contribution
 
 ![Snake](https://PolarisFTL.github.io/PolarisFTL/snake.svg)
 
@@ -28,10 +53,10 @@
 
 Here are some ideas to get you started:
 assets/vectors/orcid.logo.icon.svg
-- 🔭 I’m currently pursuing the master’s degree with the School of Computer Science and Information Security, Guilin University of Electronic Technology, Guilin, China.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently pursuing the master's degree with the School of Computer Science and Information Security, Guilin University of Electronic Technology, Guilin, China.
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
