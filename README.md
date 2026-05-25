@@ -19,11 +19,7 @@
   - IEEE TCSVT
   - IEEE TCE
 
-## 🎨 GitHub Contribution 3D
-
-![3D Contrib](./profile-3d-contrib/profile-green-animate.svg)
-
-## 🐍 GitHub Contribution Snake
+## Contribution
 
 ![Snake](https://PolarisFTL.github.io/PolarisFTL/snake.svg)
 
