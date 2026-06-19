@@ -28,6 +28,7 @@
 
   - IEEE TCSVT
   - IEEE TCE
+  - KBS
 
     </td>
     <td width="60%">
