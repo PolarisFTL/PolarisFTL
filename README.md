@@ -16,16 +16,13 @@
 **Academic Services**
 
 - Conference Reviewer
-  - AAAI 2027
-  - ACM MM 2026
   - CVPR 2026
-  - ICME 2026
-  - AAAI 2026
-  - ICME 2025
+  - AAAI 2026,2027
+  - ACM MM 2026
+  - ICME 2025,2026
   - ICIC 2025
 
 - Journal Reviewer
-
   - IEEE TCSVT
   - IEEE TCE
   - KBS
