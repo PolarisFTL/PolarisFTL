@@ -8,10 +8,6 @@
 - 🎈 My blog: https://blog.csdn.net/qq_23089691
 - ![](https://komarev.com/ghpvc/?username=your-github-PolarisFTL&color=ff69b4)
   
-<table>
-  <tr>
-    <td width="40%">
-
 
 **Academic Services**
 
@@ -27,17 +23,6 @@
   - IEEE TCE
   - KBS
 
-    </td>
-    <td width="60%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolarisFTL&theme=github" width="100%">
-
-<img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PolarisFTL&theme=github" width="48%">&nbsp;&nbsp;&nbsp;
-<img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PolarisFTL&theme=github&utcOffset=8" width="48%">
-    </td>
-
-  </tr>
-</table>
 
 ## Contribution
 
