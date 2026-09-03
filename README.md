@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 😄 I'm currently pursuing the Ph.D. degree with the School of Computer Science and Technology, Jilin University, Changchun, China.
 - 🔭 My research interests include computer vision, object detection, adverse weather perception, image enhancement, and deep learning.
 - 😶‍🌫️ My Homepage: [Los Pollos Hermanos](https://polarisftl.github.io/)
 - 📫 polarisftl123@gmail.com &ensp; <a href="https://orcid.org/0009-0007-2461-6685" target="_blank"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="15" style="vertical-align: middle;"> 0009-0007-2461-6685 </a>
