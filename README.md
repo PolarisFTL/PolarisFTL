@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 My research interests include computer vision, object detection, adverse weather perception, image enhancement, and deep learning.
-- 😶‍🌫️ My Homepage: [Los Pollos Hermanos](https://polarisftl.github.io/)
+- 😶‍🌫️ My Homepage: [Black clover](https://polarisftl.github.io/)
 - 📫 polarisftl123@gmail.com &ensp; <a href="https://orcid.org/0009-0007-2461-6685" target="_blank"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="15" style="vertical-align: middle;"> 0009-0007-2461-6685 </a>
 - 👨‍🎓 [Google Scholar](https://scholar.google.com/citations?user=rORF0xQAAAAJ&hl)
 - 🎈 My blog: https://blog.csdn.net/qq_23089691
@@ -15,11 +15,13 @@
   - AAAI 2026,2027
   - ACM MM 2026
   - ICME 2025,2026
+  - ICASSP 2027
   - ICIC 2025
 
 - Journal Reviewer
   - IEEE TCSVT
   - IEEE TCE
+  - ACM TOMM
   - KBS
 
 
