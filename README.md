@@ -11,7 +11,7 @@
 **Academic Services**
 
 - Conference Reviewer
-  - CVPR 2026
+  - CVPR 2026,2027
   - AAAI 2026,2027
   - ACM MM 2026
   - ICME 2025,2026
