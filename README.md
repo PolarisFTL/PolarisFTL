@@ -23,6 +23,7 @@
   - IEEE TCE
   - ACM TOMM
   - KBS
+  - IVC
 
 
 ## Contribution
